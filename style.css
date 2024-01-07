@@ -16,7 +16,9 @@
   width: 100%;
 }
 
-.details .details__link {
+.details .details__link,
+.details__title {
+  font-size: 16px;
   font-family: fantasy, cursive;
 }
   
